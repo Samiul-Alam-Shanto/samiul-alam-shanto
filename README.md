@@ -28,7 +28,7 @@ I’m a Full Stack Developer specializing in the MERN stack, focused on building
 
 <div align="left">
 
-- 🌱 I'm currently learning ** Next.js and Typescript to add these in my skills with mastering the skills I have already learned.**
+- 🌱 I'm currently learning  Next.js and Typescript to add these in my skills with mastering the skills I have already learned.
 
 </div>
 
@@ -64,11 +64,12 @@ I’m a Full Stack Developer specializing in the MERN stack, focused on building
 </div>
 
 
-## 📞 Contact & Links
+## 📞 Contact & Location
 
 <div align="left">
 
 - 📫 How to reach me **samiulalam220@gmail.com**
+- 📍 Mymensingh,Bangladesh
 
 </div>
 
@@ -76,49 +77,49 @@ I’m a Full Stack Developer specializing in the MERN stack, focused on building
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samiul-alam-shanto)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samiul-alam-shanto)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samiul-alam-shanto)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samiul-alam-shanto)&nbsp;&nbsp;&nbsp;[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/S.A.Shant0)
 
 </div>
 
 ## 🛠️ Skills & Technologies
 
-### 💻 Programming Languages
+###  Programming Languages
 
 <img src="https://cdn.simpleicons.org/javascript/F7DF1E?size=32" alt="JavaScript"  />
 
-### 💻 Frontend Development
+###  Frontend Development
 
 <img src="https://cdn.simpleicons.org/css3/1572B6?size=32" alt="CSS3"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/html5/E34F26?size=32" alt="HTML5"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4?size=32" alt="Tailwind CSS"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/redux/764ABC?size=32" alt="Redux"  />
 
-### 💻 Backend Development
+###  Backend Development
 
 <img src="https://cdn.simpleicons.org/nodedotjs/339933?size=32" alt="Node.js"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/express/000000?size=32" alt="Express.js"  />
 
-### 💻 Mobile App Development
+###  Mobile App Development
 
 <img src="https://cdn.simpleicons.org/react/61DAFB?size=32" alt="React Native"  />
 
-### 💻 Database
+###  Database
 
 <img src="https://cdn.simpleicons.org/mongodb/47A248?size=32" alt="MongoDB"  />
 
-### 💻 Data Visualization
+###  Data Visualization
 
 <img src="https://cdn.simpleicons.org/chartdotjs/FF6384?size=32" alt="Chart.js"  />
 
-### 💻 Backend as a Service (BaaS)
+###  Backend as a Service (BaaS)
 
 <img src="https://cdn.simpleicons.org/firebase/FFCA28?size=32" alt="Firebase"  />
 
-### 💻 Testing
+###  Testing
 
 <img src="https://cdn.simpleicons.org/jest/C21325?size=32" alt="Jest"  />
 
-### 💻 Software
+###  Software
 
 <img src="https://cdn.simpleicons.org/figma/F24E1E?size=32" alt="Figma"  />
 
-### 💻 Other
+###  Other
 
 <img src="https://cdn.simpleicons.org/git/F05032?size=32" alt="Git"  />
 
