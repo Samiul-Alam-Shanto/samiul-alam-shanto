@@ -20,7 +20,8 @@ I’m a Full Stack Developer specializing in the MERN stack, focused on building
 
 <div align="left">
 
-- 🔭 I'm currently working on **ZapShift Poject to deliver goods.**
+🔭 I'm currently working on **[ZapShift](https://github.com/Samiul-Alam-Shanto/Zap-Shift-Client.git)** project to deliver goods.
+
 
 </div>
 
