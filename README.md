@@ -53,7 +53,7 @@ I’m a Full Stack Developer specializing in the MERN stack, focused on building
 *Unversity of Chittagong*
 
 ## 📊 GitHub Stats & Activity
-[![GitHub Streak](https://streak-stats.demolab.com?user=Samiul-Alam-Shanto&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Samiul-Alam-Shanto&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 
 
 ## 📞 Contact & Location
@@ -75,25 +75,8 @@ I’m a Full Stack Developer specializing in the MERN stack, focused on building
 
 ## 🛠️ Skills & Technologies
 
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E?size=32" alt="JavaScript"  />
-
-<img src="https://cdn.simpleicons.org/css/1572B6?size=32" alt="CSS3"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/html5/E34F26?size=32" alt="HTML5"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4?size=32" alt="Tailwind CSS"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/redux/764ABC?size=32" alt="Redux"  />
-
-<img src="https://cdn.simpleicons.org/nodedotjs/339933?size=32" alt="Node.js"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/express/000000?size=32" alt="Express.js"  />
-
-<img src="https://cdn.simpleicons.org/react/61DAFB?size=32" alt="React Native"  />
-
-<img src="https://cdn.simpleicons.org/mongodb/47A248?size=32" alt="MongoDB"  />
-
-<img src="https://cdn.simpleicons.org/chartdotjs/FF6384?size=32" alt="Chart.js"  />
-
-<img src="https://cdn.simpleicons.org/firebase/FFCA28?size=32" alt="Firebase"  />
-
-<img src="https://cdn.simpleicons.org/jest/C21325?size=32" alt="Jest"  />
-
-<img src="https://cdn.simpleicons.org/figma/F24E1E?size=32" alt="Figma"  />
-
-<img src="https://cdn.simpleicons.org/git/F05032?size=32" alt="Git"  />
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E?size=32" alt="JavaScript"  />; <img src="https://cdn.simpleicons.org/css/1572B6?size=32" alt="CSS3"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/html5/E34F26?size=32" alt="HTML5"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4?size=32" alt="Tailwind CSS"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/redux/764ABC?size=32" alt="Redux"  />;<img src="https://cdn.simpleicons.org/nodedotjs/339933?size=32" alt="Node.js"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/express/000000?size=32" alt="Express.js"  />;<img src="https://cdn.simpleicons.org/react/61DAFB?size=32" alt="React Native"  />;<img src="https://cdn.simpleicons.org/mongodb/47A248?size=32" alt="MongoDB"  />;<img src="https://cdn.simpleicons.org/chartdotjs/FF6384?size=32" alt="Chart.js"  />;<img src="https://cdn.simpleicons.org/firebase/FFCA28?size=32" alt="Firebase"  />
+<img src="https://cdn.simpleicons.org/jest/C21325?size=32" alt="Jest"  />;<img src="https://cdn.simpleicons.org/figma/F24E1E?size=32" alt="Figma"  />;<img src="https://cdn.simpleicons.org/git/F05032?size=32" alt="Git"  />
 
 
 
