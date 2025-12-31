@@ -53,12 +53,9 @@ I’m a Full Stack Developer specializing in the MERN stack, focused on building
 *Unversity of Chittagong*
 
 ## 📊 GitHub Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samiul-Alam-Shanto&show_icons=true&theme=dark&hide_border=true" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=Samiul-Alam-Shanto&theme=dark&hide_border=true" />
-</p>
 
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Samiul-Alam-Shanto&theme=dark&hide_border=true)
 
 
 ## 📞 Contact & Location
