@@ -55,7 +55,7 @@ I’m a Full Stack Developer specializing in the MERN stack, focused on building
 ## 📊 GitHub Stats & Activity
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Samiul-Alam-Shanto&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=samiul-alam-shanto&theme=dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
 
 ## 📞 Contact & Location
