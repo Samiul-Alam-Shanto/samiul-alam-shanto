@@ -54,7 +54,9 @@ I’m a Full Stack Developer specializing in the MERN stack, focused on building
 
 ## 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Samiul-Alam-Shanto&theme=dark&hide_border=true&border_radius=5" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Samiul-Alam-Shanto&show_icons=true&theme=dark&hide_border=true" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=Samiul-Alam-Shanto&theme=dark&hide_border=true" />
 </p>
 
 
