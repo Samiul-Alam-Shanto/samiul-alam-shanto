@@ -20,7 +20,7 @@ I’m a Full Stack Developer specializing in the MERN stack, focused on building
 
 <div align="left">
 
-🔭 I'm currently working on **[HeroKidz](https://github.com/Samiul-Alam-Shanto/hero-kidz.git)** project to Practice Next.js learnings.
+🔭 I'm currently learning backend architecture for more knowledge.
 
 
 </div>
